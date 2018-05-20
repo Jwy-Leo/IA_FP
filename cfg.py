@@ -1,0 +1,2 @@
+_Default_Value=-1
+_SIMULATION_MODE="MINUTE" #{"HOUR","MINUTE","SECOND"}
